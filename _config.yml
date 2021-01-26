@@ -1,16 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Kwak's Blog
+email:              duckracoon@gist.ac.kr
+description:        Deep Learning / Neuromorphic(2021) / Front-End
+author:             Aiden-Kwak
 baseurl:            ""
 url:                "Aiden-Kwak.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+#twitter_username:   SBootstrap
+github_username:    Aiden-Kwak
+facebook_username:  곽병혁
+instagram_username: duckracoon
+#linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
